@@ -3,7 +3,7 @@
 时退出。
 '''
 while True:
-     a = int(input())
+    a = int(input())
 
     if a == 0:
         break
